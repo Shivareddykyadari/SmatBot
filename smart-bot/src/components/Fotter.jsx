@@ -225,7 +225,7 @@ export default function Fotter() {
           <Image w='80px' src="https://www.smatbot.com/img/Footer/Vaeto.svg"/>
         </Flex>
         <hr/>
-        <Box p={'20px'}  ><Text fontSize={'13px'}   textAlign={'center'} > © 2015-2022 Feso Social Media. All Rights Reserved.<Text color={'whatsapp.300'} >Devloped by Vishwanath</Text></Text></Box>
+        <Box p={'20px'}  ><Text fontSize={'13px'}   textAlign={'center'} > © 2015-2022 Feso Social Media. All Rights Reserved.<Text color={'whatsapp.300'} >Devloped Shiva Reddy Kyadari</Text></Text></Box>
       </Box>
     </Box>
   );
